@@ -1,9 +1,10 @@
 import React from 'react';
+import Main from './views/pages/Main';
 
 const App = () => {
   return (
-                          <div>
-                    <div> </div>
+    <div>
+      <Main />
     </div>
   );
 };
