@@ -29,3 +29,6 @@ code {
   margin: 0 auto;
   padding: 0 15px;
 }
+.custom-shadow-sm {
+  box-shadow: 0px 1px 30px #4e1ff962;
+}

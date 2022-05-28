@@ -4,7 +4,7 @@ const Banner = () => {
   console.log(menuicons);
   const [shadowActive, setShadowActive] = useState();
   return (
-    <div className="pb-12 shadow-xl shadow-primary-100 mt-20 rounded-b-lg">
+    <div className="pb-4 shadow-xl shadow-primary-100 mt-20 rounded-b-lg">
       <div className="">
         <div className="shadow-md rounded-md overflow-hidden w-full h-[250px]">
           <img
