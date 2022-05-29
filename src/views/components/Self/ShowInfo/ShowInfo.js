@@ -4,8 +4,8 @@ import Activity from "./Activity";
 import List from "./List";
 import Profile from "./Profile/Profile";
 import Self from "./Self";
-import Success from "./Success";
-import Today from "./Today";
+import Success from "./Success/Success";
+import Today from "./Today/Today";
 
 const ShowInfo = ({ activeMenu }) => {
   return (
