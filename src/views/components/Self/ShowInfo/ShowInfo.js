@@ -1,9 +1,9 @@
 import React from "react";
-import About from "./About";
-import Activity from "./Activity";
-import List from "./List";
+import About from "./About/About";
+import Activity from "./Activity/Activity";
+import List from "./List/List";
 import Profile from "./Profile/Profile";
-import Self from "./Self";
+import Self from "./Self/Self";
 import Success from "./Success/Success";
 import Today from "./Today/Today";
 
