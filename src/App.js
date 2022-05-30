@@ -4,9 +4,10 @@ import Main from './views/pages/Main';
 const App = () => {
   return (
     <div>
-      <Main />
+      <Main />  
     </div>
   );
 };
 
 export default App;
+// This is comment
