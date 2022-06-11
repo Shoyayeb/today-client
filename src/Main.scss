@@ -1,14 +1,3 @@
-$base-color: #c6538c;
-$base-color-light: #f5b6c1;
-$base-color-dark: #9c4a8c;
-$base-primrary-color: #6546d2;
-$base-secondary-color: #ff7a29;
-$base-success-color: #28a745;
-$base-danger-color: #dc3545;
-$base-warning-color: #ffc107;
-$base-info-color: #17a2b8;
-$base-dark-color: #2e2138;
-
 // Import Scss Pages
 @import "./styles/pages/profile";
 @import "./styles/pages/dashboard";
@@ -17,6 +6,12 @@ $base-dark-color: #2e2138;
 @import "./styles/pages/register";
 @import "./styles/pages/home";
 @import "./styles/pages/notfound";
+
+// Import Responsive Page
+@import "./styles/responsive";
+
+// Import Colors 
+@import "./styles/colors"
 
 
 .today-social-appliction {}
